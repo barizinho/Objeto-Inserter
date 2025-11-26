@@ -1,0 +1,5 @@
+{
+  "name": "Inserção Inteligente de Objetos",
+  "description": "Um aplicativo de edição visual inteligente para recortar objetos de imagens automaticamente e inseri-los de forma realista em cenas personalizadas, incluindo aquelas geradas por IA a partir de descrições de texto.",
+  "requestFramePermissions": []
+}
